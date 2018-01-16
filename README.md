@@ -23,9 +23,7 @@
 
 [Image](https://raw.githubusercontent.com/demaCODE/demacode.github.io/master/Captura%20de%20tela%20de%202018-01-16%2018-13-39.png)
 
-[Image](https://raw.githubusercontent.com/demaCODE/demacode.github.io/master/Captura%20de%20tela%20de%202018-01-16%2018-13-39.png)
-
-![useful image]({{ https://raw.githubusercontent.com/demaCODE/demacode.github.io/master/Captura%20de%20tela%20de%202018-01-16%2018-13-39.png }})
+![useful image](https://raw.githubusercontent.com/demaCODE/demacode.github.io/master/Captura%20de%20tela%20de%202018-01-16%2018-13-39.png)
 
 ### Suporte e Contato
 
