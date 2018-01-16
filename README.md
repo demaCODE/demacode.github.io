@@ -7,7 +7,7 @@
 
 ## Passo #2
 
-- Clique em abrir no menu superior do excel
+- Clique em abrir no menu superior do excel.
 
 ## Passo #3
 
@@ -23,6 +23,7 @@
 
 [Link](url) and ![Image](src)
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Suporte e Contato
+
+Está tendo problemas ao realizar esse tutorial? Entre em contato com a [gente](http://demacode.com.br) e nós iremos te ajudar!
