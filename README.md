@@ -21,9 +21,7 @@
 
 - Agora é só salvar em formato .xls no local aonde desejar e seu arquivo já está pronto para ser utilizado no **RNXDirect**.
 
-[Image](https://raw.githubusercontent.com/demaCODE/demacode.github.io/master/Captura%20de%20tela%20de%202018-01-16%2018-13-39.png)
-
-![useful image](https://raw.githubusercontent.com/demaCODE/demacode.github.io/master/Captura%20de%20tela%20de%202018-01-16%2018-13-39.png)
+![useful image](https://raw.githubusercontent.com/demaCODE/demacode.github.io/master/Captura%20de%20tela%20de%202018-01-16%2018-26-14.png)
 
 ### Suporte e Contato
 
