@@ -26,4 +26,4 @@
 
 ### Suporte e Contato
 
-Está tendo problemas ao realizar esse tutorial? Entre em contato com a [gente](http://demacode.com.br) e nós iremos te ajudar!
+Está tendo problemas ao realizar este tutorial? [Entre em contato com a gente e nós iremos te ajudar!](http://demacode.com.br)
