@@ -13,7 +13,7 @@
 
 Obs: Marque para ver "Todos os arquivos" como na imagem para poder encontrar seu arquivo.
 
-![Imagem 2](https://raw.githubusercontent.com/demaCODE/demacode.github.io/master/imagens/2.jpg)
+![Imagem 2](https://raw.githubusercontent.com/demaCODE/demacode.github.io/master/imagens/2.png)
 
 ## Passo #3
 
