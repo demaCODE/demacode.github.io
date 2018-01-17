@@ -35,7 +35,7 @@ Obs: Marque para ver "Todos os arquivos" como na imagem para poder encontrar seu
 
 ## Passo #6
 
-- Pronto, seu arquivo foi convertido. Agora é só salvar em formato ``.xls`` no local aonde desejar como feito na imagem abaixo e seu arquivo já está pronto para ser utilizado no RNXDirect.
+- Pronto, seu arquivo foi convertido. Agora é só salvar em formato ``.xls`` ou ``.xlsx`` no local aonde desejar como feito na imagem abaixo e seu arquivo já está pronto para ser utilizado no RNXDirect.
 
 ![Imagem 6](https://raw.githubusercontent.com/demaCODE/demacode.github.io/master/imagens/6.png)
 
