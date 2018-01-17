@@ -39,4 +39,4 @@
 
 ### Suporte e Contato
 
-Está tendo problemas ao realizar este tutorial? [Entre em contato com a gente e nós iremos te ajudar!](http://demacode.com.br)
+Está tendo problemas ao realizar este tutorial? [Entre em contato e nós iremos te ajudar!](http://demacode.com.br)
